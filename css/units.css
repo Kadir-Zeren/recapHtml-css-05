@@ -69,6 +69,13 @@ p.percent {
 .div8 {
   font-size: 2rem;
 }
-.div8 {
+.div9 {
   font-size: 3rem;
+}
+
+.box {
+  background-color: lightcoral;
+  width: 4rem;
+  height: 4rem;
+  border-radius: 50%;
 }
