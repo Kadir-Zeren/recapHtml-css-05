@@ -1,5 +1,6 @@
 html {
   /* height: 100%; */
+  font-size: 30px;
 }
 
 body {
@@ -41,4 +42,33 @@ p.percent {
   background-color: hotpink;
   width: 90vw;
   height: 10vh;
+}
+
+.div4 {
+  background-color: indigo;
+  color: white;
+  font-size: 1em;
+  width: 150px;
+}
+
+.div5 {
+  background-color: lightblue;
+  color: white;
+  font-size: 2em;
+  /* width: 1.5em; */
+}
+
+.div6 {
+  background-color: yellowgreen;
+  color: white;
+  font-size: 3em;
+}
+.div7 {
+  font-size: 1rem;
+}
+.div8 {
+  font-size: 2rem;
+}
+.div8 {
+  font-size: 3rem;
 }
